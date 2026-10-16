@@ -1,0 +1,1 @@
+- Fix rounding on zero-amount lines
