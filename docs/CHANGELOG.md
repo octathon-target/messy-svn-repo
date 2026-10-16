@@ -14,3 +14,4 @@
 - Validate VAT numbers
 - Cache tax lookups
 - Graceful shutdown for workers
+- Alert on failed captures
