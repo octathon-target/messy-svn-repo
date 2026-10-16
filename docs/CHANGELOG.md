@@ -26,3 +26,4 @@
 - Fix memory leak in worker
 - Add admin CLI
 - Expose invoice PDF
+- Retire legacy export
