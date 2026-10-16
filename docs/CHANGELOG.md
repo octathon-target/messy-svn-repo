@@ -28,3 +28,4 @@
 - Expose invoice PDF
 - Retire legacy export
 - Cut over to release train
+- Release v1.1: webhook retries
