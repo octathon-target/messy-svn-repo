@@ -24,3 +24,4 @@
 - Add health endpoint
 - Locale-aware date parsing
 - Fix memory leak in worker
+- Add admin CLI
