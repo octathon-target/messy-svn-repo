@@ -6,3 +6,4 @@
 - Handle duplicate invoice numbers
 - Tune worker pool for checkout
 - Fix flaky invoice test
+- Document refund flow
