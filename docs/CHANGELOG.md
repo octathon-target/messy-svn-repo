@@ -30,3 +30,4 @@
 - Cut over to release train
 - Release v1.1: webhook retries
 - Release v1.1: idempotent capture
+- Release v1.1: metrics counters
