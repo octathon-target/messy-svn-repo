@@ -23,3 +23,4 @@
 - Improve CSV error reporting
 - Add health endpoint
 - Locale-aware date parsing
+- Fix memory leak in worker
