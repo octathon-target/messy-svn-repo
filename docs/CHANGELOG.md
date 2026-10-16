@@ -21,3 +21,4 @@
 - Audit log retention
 - Prevent duplicate refunds
 - Improve CSV error reporting
+- Add health endpoint
