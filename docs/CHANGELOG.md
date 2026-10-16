@@ -18,3 +18,4 @@
 - Support SEPA payments
 - Multi-currency invoices
 - Add reconciliation report
+- Audit log retention
