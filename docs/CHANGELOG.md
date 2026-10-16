@@ -13,3 +13,4 @@
 - Backfill missing invoices
 - Validate VAT numbers
 - Cache tax lookups
+- Graceful shutdown for workers
