@@ -4,3 +4,4 @@
 - Refactor tax lookup table
 - Add retry to payment capture
 - Handle duplicate invoice numbers
+- Tune worker pool for checkout
