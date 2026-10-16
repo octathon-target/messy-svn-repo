@@ -3,3 +3,4 @@
 - Log failed payment transitions
 - Refactor tax lookup table
 - Add retry to payment capture
+- Handle duplicate invoice numbers
