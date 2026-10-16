@@ -1,2 +1,3 @@
 - Fix rounding on zero-amount lines
 - Guard against empty CSV rows
+- Log failed payment transitions
