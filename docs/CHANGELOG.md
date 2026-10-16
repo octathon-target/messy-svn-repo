@@ -19,3 +19,4 @@
 - Multi-currency invoices
 - Add reconciliation report
 - Audit log retention
+- Prevent duplicate refunds
