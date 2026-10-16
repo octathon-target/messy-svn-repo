@@ -12,3 +12,4 @@
 - Add integration smoke check
 - Backfill missing invoices
 - Validate VAT numbers
+- Cache tax lookups
