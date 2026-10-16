@@ -1,0 +1,1 @@
+edge cases: negative quantities, locale decimal comma, 1000-page invoices
