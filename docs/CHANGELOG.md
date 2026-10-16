@@ -20,3 +20,4 @@
 - Add reconciliation report
 - Audit log retention
 - Prevent duplicate refunds
+- Improve CSV error reporting
