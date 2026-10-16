@@ -8,3 +8,4 @@
 - Fix flaky invoice test
 - Document refund flow
 - Update dependency pins
+- Improve error messages
