@@ -16,3 +16,4 @@
 - Graceful shutdown for workers
 - Alert on failed captures
 - Support SEPA payments
+- Multi-currency invoices
