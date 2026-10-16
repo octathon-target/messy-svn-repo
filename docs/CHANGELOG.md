@@ -7,3 +7,4 @@
 - Tune worker pool for checkout
 - Fix flaky invoice test
 - Document refund flow
+- Update dependency pins
