@@ -17,3 +17,4 @@
 - Alert on failed captures
 - Support SEPA payments
 - Multi-currency invoices
+- Add reconciliation report
