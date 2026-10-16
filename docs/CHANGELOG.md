@@ -2,3 +2,4 @@
 - Guard against empty CSV rows
 - Log failed payment transitions
 - Refactor tax lookup table
+- Add retry to payment capture
